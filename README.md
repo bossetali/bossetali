@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bossetali
-- 👀 I’m interested in simulations, graphics, and engineering
-- 🌱 I’m currently learning SQL and data analysis
-- 💞️ I’m looking to collaborate on Nothing atm
+- 👀 I’m interested in simulations and engineering
+- 🌱 I’m currently learning Signals and Networking
 - 📫 How to reach me ...
 
 <!---
